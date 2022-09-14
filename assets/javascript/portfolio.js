@@ -60,6 +60,10 @@ $(document).ready(() => {
       name: 'sean',
       link: '',
     },
+    {
+      name: 'reece',
+      link: '',
+    },
   ];
 
   for (let i in links) {
@@ -69,7 +73,7 @@ $(document).ready(() => {
 
     link = $('#marquee').children('a').last();
 
-    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/others/ezgif.com-gif-maker (1).gif"> ');
+    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="assets/icons/sheaf-of-rice_1f33e (1).png"> ');
   }
 
   if (mobileAndTabletCheck()) {
