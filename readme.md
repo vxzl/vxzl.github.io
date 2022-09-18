@@ -31,5 +31,3 @@ Created by [kacp#0066] and [Vacban Community]
 ```lua
 gh repo clone vxzl/vxzl.github.io
 ```
-
-**PLEASE NOTE THAT THE LOWER- AND UPPERCASE LETTERS DON'T MATTER WHEN CALLING LIBRARY FUNCTIONS.**
