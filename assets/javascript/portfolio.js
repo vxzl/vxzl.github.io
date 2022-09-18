@@ -83,7 +83,7 @@ $(document).ready(() => {
   }
 
   app.titleChanger(['kacper', 'kacper.', 'kacper.c', 'kacper.cl', 'kacper.clu', 'kacper.club', 'kacper.clu', 'kacper.cl', 'kacper.c', 'kacper.']);
-  app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
+  app.iconChanger(['assets/icons/roses/obnoxious.png']);
 });
 
 if ($.cookie('videoTime')) {
