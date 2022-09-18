@@ -7,7 +7,7 @@ This is kacper's portfolio which is open sourced and free to use, this has been 
 - https://discord.gg/kacper
 
 
-## Main site.
+## Main site:
 ```lua
 https://kacper.club
 ```
