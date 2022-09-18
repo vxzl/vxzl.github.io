@@ -83,7 +83,7 @@ $(document).ready(() => {
   }
 
   app.titleChanger(['kacper', 'kacper.', 'kacper.c', 'kacper.cl', 'kacper.clu', 'kacper.club', 'kacper.clu', 'kacper.cl', 'kacper.c', 'kacper.']);
-  app.iconChanger(['assets/icons/roses/R (7).png']);
+  app.iconChanger(['assets/icons/weirdo.png']);
 });
 
 if ($.cookie('videoTime')) {
